@@ -3,7 +3,7 @@
 
 *imagen 
 
- 📄 Para ver el desarrollo en código,haz click **[aquí](https://github.com/LUZQ213/academy_music_streaming_analysis/blob/main/procesamiento_de_datos.ipynb)**
+ 📄 _Para ver el desarrollo en código,haz click_ **[aquí](https://github.com/LUZQ213/academy_music_streaming_analysis/blob/main/procesamiento_de_datos.ipynb)**
 
 
 ## Descripción del proyecto
@@ -11,7 +11,10 @@ Este proyecto analiza un conjunto de datos sobre consumo musical en dos ciudades
 
 ## Herramientas utilizadas
 
--_Lenguaje de Programación:_ Python.
+**- Lenguaje de Programación:** Python.
 **- Entorno de Desarrollo:** Jupyter Notebook.
 **- Bibliotecas:** Pandas, Matplotlib,  Seaborn, Numpy, Scipy.
 
+## Proceso del proyecto
+
+- preprocesamiento de datos: 
